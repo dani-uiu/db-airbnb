@@ -1,0 +1,2 @@
+# Guardar los CSV byte por byte (sin conversión de saltos de línea)
+*.csv -text
